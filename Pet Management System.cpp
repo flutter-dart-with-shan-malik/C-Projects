@@ -19,7 +19,6 @@
 //                                   12- Friend Fucntion + Friend Class      [ Access all type data from a class or function ]
 //                                   13- Inheritance                         [ Single, Multiple, MultiLevel, Hybrid, Hierarchical]
 //                                   14_ Modes of Inheritance                [ Public + Private + Protected ]
-//                                   14- Abstract class
 //                                   15- Static Classes & Functions          [ Accessable only Static to Static ]
 //                                   16- Function Overloading + Overrriding  [ same name but different parameters + same name with virtual keyword ]
 //                                   17- Polymorphism                        [ Compile-Overloading & Run time-Overriding ] 
