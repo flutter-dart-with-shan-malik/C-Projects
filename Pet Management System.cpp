@@ -1,4 +1,3 @@
-//            Pet Management System                                                 M Shan  - F2024266410
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //                          OOP Concepts  -     ||      4-Pillars    ||
 //                                              ||  1- Encapsulation ||  
@@ -848,7 +847,7 @@ public:
 	cout<<"         Looking for the best pet shop in Pakistan? PetMaster is the leading "<<endl;
 	cout<<"         online pet store in Pakistan, offering a wide range of pet products "<<endl; 
 	cout<<"    	    including premium pet food, pet accessories, grooming supplies, "<<endl; 
-	cout<<"  		and toys—all in one place."<<endl;
+	cout<<"  		and toysÂ—all in one place."<<endl;
 	cout<<endl;
 	cout<<"Why Choose us? "<<endl;
 	cout<<"    100% Satishfied               Best Choice For             Healthy             Pets Under Professional   "<<endl;
